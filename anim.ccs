@@ -1,0 +1,137 @@
+<Solution>
+  <PropertyGroup Name="anim" Version="2.0.6.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="emoticon">
+          <Image Name="1_1.png" />
+          <Image Name="2_1.png" />
+          <Image Name="2_2.png" />
+          <Image Name="2_3.png" />
+          <Image Name="2_4.png" />
+          <Image Name="3_1.png" />
+          <Image Name="3_2.png" />
+          <Image Name="3_3.png" />
+          <Image Name="3_4.png" />
+          <Image Name="3_5.png" />
+          <Image Name="3_6.png" />
+          <Image Name="3_7.png" />
+          <Image Name="4_1.png" />
+          <Image Name="4_2.png" />
+          <Project Name="emoticon_1.csd" />
+          <Project Name="emoticon_2.csd" />
+          <Project Name="emoticon_3.csd" />
+          <Project Name="emoticon_4.csd" />
+        </Folder>
+        <Folder Name="expression">
+          <Folder Name="cheers">
+            <Project Name="cheers.csd" />
+            <Image Name="cheers1.png" />
+            <Image Name="cheers10.png" />
+            <Image Name="cheers11.png" />
+            <Image Name="cheers2.png" />
+            <Image Name="cheers3.png" />
+            <Image Name="cheers4.png" />
+            <Image Name="cheers5.png" />
+            <Image Name="cheers6.png" />
+            <Image Name="cheers7.png" />
+            <Image Name="cheers8.png" />
+            <Image Name="cheers9.png" />
+          </Folder>
+          <Folder Name="chicken_eye">
+            <Project Name="chicken_eye.csd" />
+            <Image Name="chicken.png" />
+            <Image Name="chicken_eye.png" />
+          </Folder>
+          <Folder Name="chicken_catch">
+            <Project Name="chicken_catch.csd" />
+            <Image Name="chicken1.png" />
+            <Image Name="chicken10.png" />
+            <Image Name="chicken14.png" />
+            <Image Name="chicken15.png" />
+            <Image Name="chicken2.png" />
+            <Image Name="chicken3.png" />
+            <Image Name="chicken4.png" />
+            <Image Name="chicken5.png" />
+            <Image Name="chicken7.png" />
+            <Image Name="chicken8.png" />
+            <Image Name="chicken9.png" />
+          </Folder>
+          <Folder Name="fish">
+            <Project Name="fesh.csd" />
+            <Image Name="fesh.png" />
+            <Image Name="fesh1.png" />
+            <Image Name="fesh2.png" />
+          </Folder>
+          <Folder Name="rose">
+            <Project Name="rose.csd" />
+            <Image Name="rose_01.png" />
+            <Image Name="rose_02.png" />
+            <Image Name="rose_03.png" />
+            <Image Name="rose_04.png" />
+            <Image Name="rose_05.png" />
+            <Image Name="rose_06.png" />
+            <Image Name="rose_07.png" />
+            <Image Name="rose_08.png" />
+            <Image Name="rose_09.png" />
+            <Image Name="rose_10.png" />
+            <Image Name="rose_11.png" />
+            <Image Name="rose_12.png" />
+            <Image Name="rose_13.png" />
+            <Image Name="rose_14.png" />
+            <Image Name="rose_15.png" />
+            <Image Name="rose_16.png" />
+            <Image Name="rose_17.png" />
+            <Image Name="rose_18.png" />
+            <Image Name="rose_19.png" />
+            <Image Name="rose_20.png" />
+            <Image Name="rose_21.png" />
+            <Image Name="rose_22.png" />
+            <Image Name="rose_23.png" />
+            <Image Name="rose_24.png" />
+            <Image Name="rose_25.png" />
+            <Image Name="rose_26.png" />
+            <Image Name="rose_27.png" />
+            <Image Name="rose_28.png" />
+            <Image Name="rose_29.png" />
+            <Image Name="rose_30.png" />
+            <Image Name="rose_31.png" />
+            <Image Name="rose_32.png" />
+            <Image Name="rose_33.png" />
+            <Image Name="rose_34.png" />
+            <Image Name="rose_35.png" />
+            <Image Name="rose_36.png" />
+            <Image Name="rose_37.png" />
+            <Image Name="rose_38.png" />
+            <Image Name="rose_39.png" />
+            <Image Name="rose_40.png" />
+            <Image Name="rose_41.png" />
+            <Image Name="rose_42.png" />
+            <Image Name="rose_43.png" />
+            <Image Name="rose_44.png" />
+            <Image Name="rose_45.png" />
+            <Image Name="rose_46.png" />
+            <Image Name="rose_47.png" />
+            <Image Name="rose_48.png" />
+            <Image Name="rose_49.png" />
+            <Image Name="rose_50.png" />
+            <Image Name="rose_51.png" />
+            <Image Name="rose_52.png" />
+            <Image Name="rose_53.png" />
+            <Image Name="rose_54.png" />
+            <Image Name="rose_55.png" />
+            <Image Name="rose_56.png" />
+            <Image Name="rose_57.png" />
+            <Image Name="rose_58.png" />
+            <Image Name="rose_59.png" />
+            <Image Name="rose_60.png" />
+            <Image Name="rose_61.png" />
+            <Image Name="rose_62.png" />
+            <Image Name="rose_63.png" />
+            <Image Name="rose_64.png" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
